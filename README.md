@@ -292,7 +292,7 @@ Small ideas turned into real products.
 
 ---
 
-## Current Focus
+## Open to Work
 
 I'm currently open to freelance work, commissions, collaborations, and software development opportunities.
 
