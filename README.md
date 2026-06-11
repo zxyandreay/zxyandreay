@@ -5,7 +5,7 @@
 
 ### Computer Science Graduate · App Builder · Problem Solver
 
-I build simple, useful, and polished apps across web, mobile, and desktop — solving real problems through thoughtful product decisions, clean architecture, security-aware implementation, thorough testing, and reliable releases.
+I build simple, useful, and polished apps across web, mobile, and desktop — solving real problems through thoughtful product decisions, clean architecture, testing, and reliable releases.
 
 <br />
 
