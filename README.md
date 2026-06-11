@@ -93,7 +93,7 @@ I’m especially interested in using AI to build faster without skipping the imp
     <td width="50%">
       <h3>Weilo</h3>
       <p>
-        A calm mobile weight tracker for daily progress without noise.
+        A mobile fitness weight tracker for daily progress without noise.
       </p>
       <p>
         Built around focused logging, goals, trends, stats, reminders, backups, and kg/lbs support while keeping the experience simple and consistent.
