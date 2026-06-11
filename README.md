@@ -251,35 +251,6 @@ I’m especially interested in using AI to build faster without skipping the imp
 
 ---
 
-## Development Areas
-
-```txt
-Planning         → features, user flows, scope, edge cases
-Architecture     → routes, components, state, data flow, file structure
-Implementation   → scaffolding, bug fixes, UI iteration, refactoring
-Security Review  → validation, auth checks, file handling, env usage, deployment settings
-Polish           → spacing, copy, accessibility, documentation, release notes
-Shipping         → builds, versioning, deployment, README updates, release preparation
-```
-
-AI helps me move faster, but I treat generated code as a draft that still needs review, testing, cleanup, and product judgment.
-
----
-
-## What I Like Building
-
-```txt
-Focused apps.
-Clean interfaces.
-Practical systems.
-Maintainable architecture.
-Security-aware features.
-Creative prototypes.
-Small ideas turned into real products.
-```
-
----
-
 ## GitHub Stats
 
 <div align="center">
