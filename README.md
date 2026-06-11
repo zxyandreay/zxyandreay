@@ -9,9 +9,9 @@ I build simple, useful, and polished apps across web, mobile, and desktop — us
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-zxyandreay.is--a.dev-111?style=for-the-badge&logo=firefox&logoColor=white)](https://zxyandreay.is-a.dev/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-zxyandreay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zxyandreay/)
-[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-@zxyandreay-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zxyandreay)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zxyandreay.is--a.dev-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://zxyandreay.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zxyandreay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zxyandreay/)
+[![Instagram](https://img.shields.io/badge/Instagram-@zxyandreay-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zxyandreay)
 
 </div>
 
