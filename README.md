@@ -300,7 +300,7 @@ I’m interested in helping with web apps, mobile apps, desktop tools, UI polish
 
 I’m also open to collaborating with other builders, creators, startups, and small teams who need someone who can think through product flow, architecture, user experience, security considerations, and shipping quality.
 
-If you have an app idea, a project that needs improvement, or a role where practical app-building matters, feel free to reach out.
+If you have an app idea, a project that needs improvement, or a role where practical app-building matters, feel free to reach out at [zxyandreay@gmail.com](mailto:zxyandreay@gmail.com).
 
 ---
 
@@ -309,6 +309,6 @@ If you have an app idea, a project that needs improvement, or a role where pract
 
 ### Thanks for visiting ✨
 
-<a href="https://zxyandreay.is-a.dev/">Portfolio</a> · <a href="https://linkedin.com/in/zxyandreay">LinkedIn</a> · <a href="https://instagram.com/zxyandreay">Instagram</a>
+<a href="mailto:zxyandreay@gmail.com">Contact</a> · <a href="https://zxyandreay.is-a.dev/">Portfolio</a> · <a href="https://linkedin.com/in/zxyandreay">LinkedIn</a> · <a href="https://instagram.com/zxyandreay">Instagram</a>
 
 </div>
