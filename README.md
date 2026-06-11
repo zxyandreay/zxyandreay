@@ -49,42 +49,6 @@ I’m especially interested in using AI to build faster without skipping the imp
 
 ---
 
-## Architecture-Minded AI Workflow
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Product First</h3>
-      <p>
-        I start with the actual user problem, then shape the features, screens, and flows around that goal.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Clear App Structure</h3>
-      <p>
-        I care about clean routing, reusable components, predictable state, readable file organization, and maintainable code paths.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Security-Aware Review</h3>
-      <p>
-        When AI helps generate code, I review the important boundaries: auth, input validation, file handling, environment variables, API usage, and deployment behavior.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Ship, Then Improve</h3>
-      <p>
-        I like projects that move past the prototype stage: documented, tested, deployed, versioned, and improved through real use.
-      </p>
-    </td>
-  </tr>
-</table>
-
-
----
-
 ## Featured Projects
 
 <table>
