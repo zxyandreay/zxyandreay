@@ -274,7 +274,6 @@ Clean interfaces.
 Useful workflows.
 Maintainable architecture.
 Security-aware features.
-AI-assisted development systems.
 Creative prototypes.
 Small ideas turned into real products.
 ```
