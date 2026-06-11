@@ -2,7 +2,7 @@
 
 # Hi, I'm zxyandreay 👋
 
-### Computer Science Graduate · AI-Assisted App Builder · Digital Tool Maker
+### Computer Science Graduate · App Builder · Digital Tool Maker
 
 I build simple, useful, and polished apps across web, mobile, and desktop — using an AI-assisted workflow to move faster from idea, prototype, iteration, and deployment.
 
@@ -45,7 +45,7 @@ Idea
 → Deploy, document, and keep improving based on real use
 ```
 
-I’m especially interested in using AI to build faster without skipping the important parts: product thinking, usability, privacy, testing, and polish.
+I’m especially interested in using AI to build faster without skipping the important parts: product thinking, usability, security, testing, and polish.
 
 ---
 
