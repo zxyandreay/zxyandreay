@@ -271,7 +271,7 @@ AI helps me move faster, but I treat generated code as a draft that still needs 
 ```txt
 Focused apps.
 Clean interfaces.
-Useful workflows.
+Practical systems.
 Maintainable architecture.
 Security-aware features.
 Creative prototypes.
