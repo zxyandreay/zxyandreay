@@ -56,7 +56,7 @@ AI helps me move faster without skipping the important parts: product thinking, 
     <td width="50%">
       <h3>Weilo</h3>
       <p>
-        A mobile fitness weight tracker for daily progress without noise.
+        A simple mobile weight tracker for fitness progress with charts and image share.
       </p>
       <p>
         Built around focused logging, goals, trends, stats, reminders, backups, and kg/lbs support while keeping the experience simple and consistent.
