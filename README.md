@@ -2,9 +2,9 @@
 
 # Hi, I'm zxyandreay 👋
 
-### Computer Science Graduate · App Builder · Digital Tool Maker
+### Computer Science Graduate · AI-Assisted App Builder · Digital Tool Maker
 
-I build simple, useful, and polished apps across web, mobile, and desktop — with a focus on clean interfaces, practical workflows, and products people can actually try.
+I build simple, useful, and polished apps across web, mobile, and desktop — using an AI-assisted workflow to move faster from idea, prototype, iteration, and deployment.
 
 <br />
 
@@ -20,6 +20,8 @@ I build simple, useful, and polished apps across web, mobile, and desktop — wi
 
 I'm a Computer Science graduate who enjoys turning ideas into real, usable apps.
 
+I build with an **AI-assisted development workflow**, where I use AI as a coding partner for planning, prototyping, debugging, refactoring, UI polishing, documentation, and release preparation — while I handle the product direction, feature decisions, testing, and final implementation choices.
+
 I like building projects that are:
 
 - simple to understand
@@ -27,8 +29,23 @@ I like building projects that are:
 - useful for everyday workflows
 - privacy-minded when handling personal data
 - focused instead of overloaded with unnecessary features
+- built, tested, improved, and actually shipped
 
 Right now, I’m building a portfolio of web apps, mobile apps, desktop tools, and creative prototypes.
+
+---
+
+## How I Build
+
+```txt
+Idea
+→ Plan the product and core features
+→ Use AI to speed up scaffolding, iteration, debugging, and polish
+→ Review, test, refine, and improve the app manually
+→ Deploy, document, and keep improving based on real use
+```
+
+I’m especially interested in using AI to build faster without skipping the important parts: product thinking, usability, privacy, testing, and polish.
 
 ---
 
@@ -196,6 +213,24 @@ Right now, I’m building a portfolio of web apps, mobile apps, desktop tools, a
 
 ---
 
+## AI-Assisted Workflow
+
+I use AI as part of my development process to move from idea to working product faster.
+
+My workflow usually includes:
+
+* planning features and user flows
+* generating first drafts or scaffolds
+* debugging issues and build errors
+* improving UI, spacing, copy, and UX
+* refactoring messy code into cleaner structure
+* writing documentation, release notes, and setup guides
+* checking for edge cases, security concerns, and deployment issues
+
+I still review, test, adjust, and make the final decisions myself. AI helps me move faster, but the product direction, quality control, and shipping decisions are mine.
+
+---
+
 ## What I Like Building
 
 ```txt
@@ -203,9 +238,10 @@ Focused apps.
 Clean interfaces.
 Local-first tools.
 Privacy-minded utilities.
+AI-assisted workflows.
 Creative prototypes.
 Small ideas turned into real products.
-````
+```
 
 ---
 
@@ -225,6 +261,8 @@ Small ideas turned into real products.
 I'm currently focused on building and polishing more portfolio-ready projects across web, mobile, and desktop.
 
 I care about making apps that feel simple, useful, and complete — even when the idea starts small.
+
+I’m also exploring how AI-assisted development can help solo builders prototype faster, improve quality, and ship more consistently.
 
 ---
 
