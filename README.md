@@ -5,7 +5,7 @@
 
 ### Computer Science Graduate · App Builder · Problem Solver
 
-I build simple, useful, and polished apps across web, mobile, and desktop — using AI to move faster while staying intentional about product direction, code structure, security, testing, and release quality.
+I build simple, useful, and polished apps across web, mobile, and desktop — solving real problems through thoughtful product decisions, clean architecture, security-aware implementation, thorough testing, and reliable releases.
 
 <br />
 
@@ -45,7 +45,7 @@ Idea
 → Test, refine, document, deploy, and keep improving
 ```
 
-AI helps me move faster without skipping the important parts: product thinking, maintainable architecture, security-aware implementation, testing, and polish.
+I care about building apps that are not only functional, but also clear, maintainable, secure where it matters, and ready for real use.
 
 ---
 
