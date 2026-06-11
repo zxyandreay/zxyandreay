@@ -20,7 +20,7 @@ I build simple, useful, and polished apps across web, mobile, and desktop — us
 
 I'm a Computer Science graduate who enjoys turning ideas into real, usable apps.
 
-I build with an **AI-assisted development workflow**, using AI as a coding partner for planning, scaffolding, debugging, refactoring, UI polish, documentation, and release preparation. I still handle the product direction, architecture decisions, security review, testing, and final implementation choices.
+I use AI as part of my development workflow to move faster through planning, scaffolding, debugging, refactoring, UI polish, documentation, and release preparation. My focus stays on product direction, architecture decisions, security review, testing, and final implementation quality.
 
 I like building projects that are:
 
