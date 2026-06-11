@@ -3,7 +3,7 @@
 
 # Hi, I'm zxyandreay 👋
 
-### Computer Science Graduate · App Builder · Architecture-Minded AI Workflow
+### Computer Science Graduate · App Builder · Digital Tool Maker
 
 I build simple, useful, and polished apps across web, mobile, and desktop — using AI to move faster while staying intentional about product direction, code structure, security, testing, and release quality.
 
