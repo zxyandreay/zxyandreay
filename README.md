@@ -29,7 +29,6 @@ I like building projects that are:
 - polished enough to share and maintain
 - structured with clear routes, state, data flow, and component boundaries
 - designed with validation, safe defaults, and security checks in mind
-- focused instead of overloaded with unnecessary features
 - documented, tested, improved, and actually shipped
 
 Right now, I’m building a portfolio of web apps, mobile apps, desktop tools, and creative prototypes.
