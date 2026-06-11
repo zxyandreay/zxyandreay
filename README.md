@@ -45,7 +45,7 @@ Idea
 → Test, refine, document, deploy, and keep improving
 ```
 
-I’m especially interested in using AI to build faster without skipping the important parts: product thinking, maintainable architecture, security-aware implementation, testing, and polish.
+AI helps me move faster without skipping the important parts: product thinking, maintainable architecture, security-aware implementation, testing, and polish.
 
 ---
 
