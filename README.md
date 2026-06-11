@@ -10,7 +10,7 @@ I build simple, useful, and polished apps across web, mobile, and desktop — us
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zxyandreay.is--a.dev-111?style=for-the-badge&logo=firefox&logoColor=white)](https://zxyandreay.is-a.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zxyandreay-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/zxyandreay/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zxyandreay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zxyandreay/)
 [![Instagram](https://img.shields.io/badge/Instagram-@zxyandreay-111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zxyandreay)
 
 </div>
