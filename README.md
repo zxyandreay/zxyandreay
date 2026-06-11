@@ -307,6 +307,6 @@ I’m also exploring how AI-assisted development can help solo builders prototyp
 
 ### Thanks for visiting ✨
 
-<a href="https://zxyandreay.is-a.dev/">Portfolio</a> · <a href="https://github.com/zxyandreay">GitHub</a> · <a href="https://instagram.com/zxyandreay">Instagram</a>
+<a href="https://zxyandreay.is-a.dev/">Portfolio</a> · <a href="https://linkedin.com/in/zxyandreay">LinkedIn</a> · <a href="https://instagram.com/zxyandreay">Instagram</a>
 
 </div>
