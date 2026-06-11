@@ -36,16 +36,13 @@ Right now, I’m building a portfolio of web apps, mobile apps, desktop tools, a
 
 ## How I Build
 
-```mermaid
-flowchart TD
-    A[Idea] --> B[Define the core use case]
-    B --> C[Plan the user flow]
-    C --> D[Design the app structure]
-    D --> E[Use AI for scaffolding and iteration]
-    E --> F[Review architecture and security assumptions]
-    F --> G[Test edge cases and UX details]
-    G --> H[Refine, document, and deploy]
-    H --> I[Improve based on real use]
+```txt
+Idea
+→ Define the core use case and user flow
+→ Plan the app structure, data shape, routes, and states
+→ Use AI to speed up scaffolding, iteration, debugging, and polish
+→ Review architecture, security assumptions, edge cases, and UX details
+→ Test, refine, document, deploy, and keep improving
 ```
 
 I’m especially interested in using AI to build faster without skipping the important parts: product thinking, maintainable architecture, security-aware implementation, testing, and polish.
@@ -251,6 +248,21 @@ I’m especially interested in using AI to build faster without skipping the imp
 ![Phaser](https://img.shields.io/badge/Phaser-111?style=for-the-badge&logo=javascript&logoColor=white)
 
 </div>
+
+---
+
+## Development Areas
+
+```txt
+Planning         → features, user flows, scope, edge cases
+Architecture     → routes, components, state, data flow, file structure
+Implementation   → scaffolding, bug fixes, UI iteration, refactoring
+Security Review  → validation, auth checks, file handling, env usage, deployment settings
+Polish           → spacing, copy, accessibility, documentation, release notes
+Shipping         → builds, versioning, deployment, README updates, release preparation
+```
+
+AI helps me move faster, but I treat generated code as a draft that still needs review, testing, cleanup, and product judgment.
 
 ---
 
