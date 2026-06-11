@@ -254,7 +254,7 @@ I’m especially interested in using AI to build faster without skipping the imp
 ## AI-Assisted Development Areas
 
 ```txt
-Planning          → features, user flows, scope, edge cases
+Planning         → features, user flows, scope, edge cases
 Architecture     → routes, components, state, data flow, file structure
 Implementation   → scaffolding, bug fixes, UI iteration, refactoring
 Security Review  → validation, auth checks, file handling, env usage, deployment settings
