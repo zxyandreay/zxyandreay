@@ -251,7 +251,7 @@ I’m especially interested in using AI to build faster without skipping the imp
 
 ---
 
-## AI-Assisted Development Areas
+## Development Areas
 
 ```txt
 Planning         → features, user flows, scope, edge cases
