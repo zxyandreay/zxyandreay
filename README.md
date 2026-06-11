@@ -294,11 +294,13 @@ Small ideas turned into real products.
 
 ## Current Focus
 
-I'm currently focused on building and polishing more portfolio-ready projects across web, mobile, and desktop.
+I'm currently open to freelance work, commissions, collaborations, and software development opportunities.
 
-I care about making apps that feel simple, useful, secure, and complete — even when the idea starts small.
+I’m interested in helping with web apps, mobile apps, desktop tools, UI polish, feature development, bug fixing, documentation, and project improvements — especially for ideas that need to become real, usable, and well-structured products.
 
-I’m also exploring how AI-assisted development can help solo builders prototype faster while keeping the workflow grounded in architecture, code review, testing, and consistent shipping.
+I’m also open to collaborating with other builders, creators, startups, and small teams who need someone who can think through product flow, architecture, user experience, security considerations, and shipping quality.
+
+If you have an app idea, a project that needs improvement, or a role where practical app-building matters, feel free to reach out.
 
 ---
 
