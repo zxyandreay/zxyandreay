@@ -36,13 +36,16 @@ Right now, I’m building a portfolio of web apps, mobile apps, desktop tools, a
 
 ## How I Build
 
-```txt
-Idea
-→ Define the core use case and user flow
-→ Plan the app structure, data shape, routes, and states
-→ Use AI to speed up scaffolding, iteration, debugging, and polish
-→ Review architecture, security assumptions, edge cases, and UX details
-→ Test, refine, document, deploy, and keep improving
+```mermaid
+flowchart TD
+    A[Idea] --> B[Define the core use case]
+    B --> C[Plan the user flow]
+    C --> D[Design the app structure]
+    D --> E[Use AI for scaffolding and iteration]
+    E --> F[Review architecture and security assumptions]
+    F --> G[Test edge cases and UX details]
+    G --> H[Refine, document, and deploy]
+    H --> I[Improve based on real use]
 ```
 
 I’m especially interested in using AI to build faster without skipping the important parts: product thinking, maintainable architecture, security-aware implementation, testing, and polish.
