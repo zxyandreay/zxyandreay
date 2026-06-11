@@ -232,6 +232,6 @@ I care about making apps that feel simple, useful, and complete — even when th
 
 ### Thanks for visiting ✨
 
-<a href="https://zxyandreay.is-a.dev/">Portfolio</a> · <a href="https://github.com/zxyandreay">GitHub</a> · <a href="https://x.com/zxyandreay">X / Twitter</a>
+<a href="https://zxyandreay.is-a.dev/">Portfolio</a> · <a href="https://github.com/zxyandreay">GitHub</a> · <a href="[https://x.com/zxyandreay](https://instagram.com/zxyandreay)">Instagram</a>
 
 </div>
