@@ -27,7 +27,7 @@ I like building projects that are:
 - simple to understand
 - polished enough to share
 - useful for everyday workflows
-- privacy-minded when handling personal data
+- architecture-minded when handling sensitive data
 - focused instead of overloaded with unnecessary features
 - built, tested, improved, and actually shipped
 
