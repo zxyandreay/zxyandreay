@@ -1,10 +1,11 @@
 <div align="center">
 
+
 # Hi, I'm zxyandreay 👋
 
-### Computer Science Graduate · App Builder · Digital Tool Maker
+### Computer Science Graduate · App Builder · Architecture-Minded AI Workflow
 
-I build simple, useful, and polished apps across web, mobile, and desktop — using an AI-assisted workflow to move faster from idea, prototype, iteration, and deployment.
+I build simple, useful, and polished apps across web, mobile, and desktop — using AI to move faster while staying intentional about product direction, code structure, security, testing, and release quality.
 
 <br />
 
@@ -20,16 +21,16 @@ I build simple, useful, and polished apps across web, mobile, and desktop — us
 
 I'm a Computer Science graduate who enjoys turning ideas into real, usable apps.
 
-I build with an **AI-assisted development workflow**, where I use AI as a coding partner for planning, prototyping, debugging, refactoring, UI polishing, documentation, and release preparation — while I handle the product direction, feature decisions, testing, and final implementation choices.
+I build with an **AI-assisted development workflow**, using AI as a coding partner for planning, scaffolding, debugging, refactoring, UI polish, documentation, and release preparation. I still handle the product direction, architecture decisions, security review, testing, and final implementation choices.
 
 I like building projects that are:
 
-- simple to understand
-- polished enough to share
-- useful for everyday workflows
-- architecture-minded when handling sensitive data
+- simple to understand and easy to use
+- polished enough to share and maintain
+- structured with clear routes, state, data flow, and component boundaries
+- designed with validation, safe defaults, and security checks in mind
 - focused instead of overloaded with unnecessary features
-- built, tested, improved, and actually shipped
+- documented, tested, improved, and actually shipped
 
 Right now, I’m building a portfolio of web apps, mobile apps, desktop tools, and creative prototypes.
 
@@ -39,13 +40,50 @@ Right now, I’m building a portfolio of web apps, mobile apps, desktop tools, a
 
 ```txt
 Idea
-→ Plan the product and core features
+→ Define the core use case and user flow
+→ Plan the app structure, data shape, routes, and states
 → Use AI to speed up scaffolding, iteration, debugging, and polish
-→ Review, test, refine, and improve the app manually
-→ Deploy, document, and keep improving based on real use
+→ Review architecture, security assumptions, edge cases, and UX details
+→ Test, refine, document, deploy, and keep improving
 ```
 
-I’m especially interested in using AI to build faster without skipping the important parts: product thinking, usability, security, testing, and polish.
+I’m especially interested in using AI to build faster without skipping the important parts: product thinking, maintainable architecture, security-aware implementation, testing, and polish.
+
+---
+
+## Architecture-Minded AI Workflow
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Product First</h3>
+      <p>
+        I start with the actual user problem, then shape the features, screens, and flows around that goal.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Clear App Structure</h3>
+      <p>
+        I care about clean routing, reusable components, predictable state, readable file organization, and maintainable code paths.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Security-Aware Review</h3>
+      <p>
+        When AI helps generate code, I review the important boundaries: auth, input validation, file handling, environment variables, API usage, and deployment behavior.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Ship, Then Improve</h3>
+      <p>
+        I like projects that move past the prototype stage: documented, tested, deployed, versioned, and improved through real use.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -56,10 +94,10 @@ I’m especially interested in using AI to build faster without skipping the imp
     <td width="50%">
       <h3>Weilo</h3>
       <p>
-        A calm local-first weight tracker for daily progress without noise.
+        A calm mobile weight tracker for daily progress without noise.
       </p>
       <p>
-        It includes goals, trends, stats, reminders, backups, and kg/lbs support while keeping the experience simple and focused.
+        Built around focused logging, goals, trends, stats, reminders, backups, and kg/lbs support while keeping the experience simple and consistent.
       </p>
       <p>
         <strong>Category:</strong> Mobile App
@@ -68,7 +106,7 @@ I’m especially interested in using AI to build faster without skipping the imp
         <strong>Tech:</strong> Expo, React Native, Mobile App
       </p>
       <p>
-        <strong>Highlights:</strong> Goals + target weight · kg/lbs support · Reminders + backups
+        <strong>Build Focus:</strong> Simple product scope · Local app data flow · Clean mobile UX
       </p>
       <p>
         <a href="https://weilo.vercel.app">Project Page</a>
@@ -89,7 +127,7 @@ I’m especially interested in using AI to build faster without skipping the imp
         <strong>Tech:</strong> Next.js, Supabase, React Flow
       </p>
       <p>
-        <strong>Highlights:</strong> Logic view diagnostics · Responses + CSV export · Demo mode + Sheets sync
+        <strong>Build Focus:</strong> Auth boundaries · Conditional logic · Response data flow
       </p>
       <p>
         <a href="https://branch-forms.vercel.app">Live Demo</a>
@@ -97,11 +135,12 @@ I’m especially interested in using AI to build faster without skipping the imp
     </td>
   </tr>
 
+
   <tr>
     <td width="50%">
       <h3>Resume Builder</h3>
       <p>
-        A browser-only modular resume editor with live A4 preview and PDF export.
+        A browser-based modular resume editor with live A4 preview and PDF export.
       </p>
       <p>
         Built for creating resumes quickly with templates, autosave, JSON import/export, zoom, fullscreen preview, and optional photo upload.
@@ -113,7 +152,7 @@ I’m especially interested in using AI to build faster without skipping the imp
         <strong>Tech:</strong> React, Vite, PDF Export
       </p>
       <p>
-        <strong>Highlights:</strong> Classic + Modern templates · Zoom + fullscreen preview · Optional photo upload
+        <strong>Build Focus:</strong> Document layout · Export accuracy · Editor state management
       </p>
       <p>
         <a href="https://resume-builder.zxyandreay.workers.dev">Live Demo</a>
@@ -122,7 +161,7 @@ I’m especially interested in using AI to build faster without skipping the imp
     <td width="50%">
       <h3>PlanDesk</h3>
       <p>
-        A local-first desktop project manager for organizing projects, milestones, tasks, issues, notes, files, reports, backups, and exports.
+        A desktop project manager for organizing projects, milestones, tasks, issues, notes, files, reports, backups, and exports.
       </p>
       <p>
         Designed for people who want a focused project management tool without complicated setup.
@@ -134,7 +173,7 @@ I’m especially interested in using AI to build faster without skipping the imp
         <strong>Tech:</strong> Tauri, React, TypeScript
       </p>
       <p>
-        <strong>Highlights:</strong> Tasks, issues + milestones · Local file/folder links · Reports, backups + exports
+        <strong>Build Focus:</strong> Desktop architecture · File references · Reports, backups + exports
       </p>
       <p>
         <a href="https://github.com/zxyandreay/plan-desk/releases">Releases</a> ·
@@ -147,19 +186,19 @@ I’m especially interested in using AI to build faster without skipping the imp
     <td width="50%">
       <h3>FollowBack Checker</h3>
       <p>
-        A privacy-minded Instagram export comparison tool that helps users check follower and following differences.
+        A browser-based Instagram export comparison tool that helps users check follower and following differences.
       </p>
       <p>
-        It works locally with ZIP/JSON exports — no Instagram login, scraping, or API required.
+        Built around ZIP/JSON parsing, searchable comparison results, profile links, CSV export, and a clear import guide.
       </p>
       <p>
-        <strong>Category:</strong> Privacy-Minded Utility
+        <strong>Category:</strong> Client-Side Data Utility
       </p>
       <p>
         <strong>Tech:</strong> Next.js, TypeScript, JSZip
       </p>
       <p>
-        <strong>Highlights:</strong> Searchable comparison lists · CSV export · Built-in export guide
+        <strong>Build Focus:</strong> File parsing · Data comparison · Clear result views
       </p>
       <p>
         <a href="https://zxyandreay.github.io/followback-checker/">Live Demo</a> ·
@@ -181,7 +220,7 @@ I’m especially interested in using AI to build faster without skipping the imp
         <strong>Tech:</strong> Phaser 3, TypeScript, Game Dev
       </p>
       <p>
-        <strong>Highlights:</strong> Three authored levels · Stress + scoring systems · Pause, saves, result scenes
+        <strong>Build Focus:</strong> Game states · Scoring systems · Level flow
       </p>
       <p>
         <a href="https://zxyandreay.github.io/text-drive/">Live Demo</a> ·
@@ -196,6 +235,7 @@ I’m especially interested in using AI to build faster without skipping the imp
 ## Tech Stack
 
 <div align="center">
+
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -213,21 +253,18 @@ I’m especially interested in using AI to build faster without skipping the imp
 
 ---
 
-## AI-Assisted Workflow
+## AI-Assisted Development Areas
 
-I use AI as part of my development process to move from idea to working product faster.
+```txt
+Planning          → features, user flows, scope, edge cases
+Architecture     → routes, components, state, data flow, file structure
+Implementation   → scaffolding, bug fixes, UI iteration, refactoring
+Security Review  → validation, auth checks, file handling, env usage, deployment settings
+Polish           → spacing, copy, accessibility, documentation, release notes
+Shipping         → builds, versioning, deployment, README updates, release preparation
+```
 
-My workflow usually includes:
-
-* planning features and user flows
-* generating first drafts or scaffolds
-* debugging issues and build errors
-* improving UI, spacing, copy, and UX
-* refactoring messy code into cleaner structure
-* writing documentation, release notes, and setup guides
-* checking for edge cases, security concerns, and deployment issues
-
-I still review, test, adjust, and make the final decisions myself. AI helps me move faster, but the product direction, quality control, and shipping decisions are mine.
+AI helps me move faster, but I treat generated code as a draft that still needs review, testing, cleanup, and product judgment.
 
 ---
 
@@ -236,9 +273,10 @@ I still review, test, adjust, and make the final decisions myself. AI helps me m
 ```txt
 Focused apps.
 Clean interfaces.
-Local-first tools.
-Privacy-minded utilities.
-AI-assisted workflows.
+Useful workflows.
+Maintainable architecture.
+Security-aware features.
+AI-assisted development systems.
 Creative prototypes.
 Small ideas turned into real products.
 ```
@@ -248,6 +286,7 @@ Small ideas turned into real products.
 ## GitHub Stats
 
 <div align="center">
+
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zxyandreay&show_icons=true&theme=github_dark&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxyandreay&layout=compact&theme=github_dark&hide_border=true" />
@@ -260,13 +299,14 @@ Small ideas turned into real products.
 
 I'm currently focused on building and polishing more portfolio-ready projects across web, mobile, and desktop.
 
-I care about making apps that feel simple, useful, and complete — even when the idea starts small.
+I care about making apps that feel simple, useful, secure, and complete — even when the idea starts small.
 
-I’m also exploring how AI-assisted development can help solo builders prototype faster, improve quality, and ship more consistently.
+I’m also exploring how AI-assisted development can help solo builders prototype faster while keeping the workflow grounded in architecture, code review, testing, and consistent shipping.
 
 ---
 
 <div align="center">
+
 
 ### Thanks for visiting ✨
 
