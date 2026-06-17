@@ -3,7 +3,7 @@
 
 # Hi, I'm zxyandreay 👋
 
-### Computer Science Graduate · App Builder · Problem Solver
+### Computer Science Graduate · Product Builder · Problem Solver
 
 I build simple, useful, and polished apps across web, mobile, and desktop — solving real problems through thoughtful product decisions, clean architecture, testing, and reliable releases.
 
