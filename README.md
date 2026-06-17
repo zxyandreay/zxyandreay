@@ -5,7 +5,7 @@
 
 ### Computer Science Graduate · Product Builder · Problem Solver
 
-I build simple, useful, and polished products across web, mobile, and desktop — solving real problems through thoughtful product decisions, clean architecture, testing, and reliable releases.
+I turn real problems into simple, useful, and polished products across web, mobile, and desktop through thoughtful decisions, clean execution, and reliable releases.
 
 <br />
 
