@@ -75,24 +75,24 @@ I care about building apps that are not only functional, but also clear, maintai
       </p>
     </td>
     <td width="50%">
-      <h3>Branch Forms</h3>
+      <h3>Clanker</h3>
       <p>
-        A branching form builder for creating smarter forms with conditional paths and response tracking.
+        A browser-based doodle guessing game where players draw timed prompts while Clanker tries to guess them.
       </p>
       <p>
-        Includes owner auth, logic view, public forms, response dashboards, CSV export, demo mode, templates, and optional Google Sheets sync.
+        Built around canvas drawing, local model inference, speech bubbles, timed rounds, scoring, result tracking, and playful mascot feedback.
       </p>
       <p>
-        <strong>Category:</strong> Branching Form Builder
+        <strong>Category:</strong> ML Browser Game
       </p>
       <p>
-        <strong>Tech:</strong> Next.js, Supabase, React Flow
+        <strong>Tech:</strong> React, TypeScript, TensorFlow.js
       </p>
       <p>
-        <strong>Build Focus:</strong> Auth boundaries · Conditional logic · Response data flow
+        <strong>Build Focus:</strong> Canvas interaction · Local ML inference · Timed game flow
       </p>
       <p>
-        <a href="https://branch-forms.vercel.app">Live Demo</a>
+        <a href="https://clanker-doodle.vercel.app">Live Demo</a>
       </p>
     </td>
   </tr>
