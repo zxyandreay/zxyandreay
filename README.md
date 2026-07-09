@@ -56,10 +56,10 @@ I care about building apps that are not only functional, but also clear, maintai
     <td width="50%">
       <h3>Weilo</h3>
       <p>
-        A simple mobile weight tracker for fitness progress.
+        A clean mobile weight tracker for logging progress, setting goals, and staying aware of fitness changes over time.
       </p>
       <p>
-        Built around focused logging, goals, trends, stats, reminders, backups, and kg/lbs support while keeping the experience simple and consistent.
+        Built around fast weight logging, goal tracking, trends, stats, local backups, kg/lbs support, and shareable progress snapshots while keeping the experience simple and consistent.
       </p>
       <p>
         <strong>Category:</strong> Mobile App
@@ -68,7 +68,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Tech:</strong> Expo, React Native, Mobile App
       </p>
       <p>
-        <strong>Build Focus:</strong> Simple product scope · Local app data flow · Clean mobile UX
+        <strong>Build Focus:</strong> Simple product scope · Local app data flow · Shareable progress UX
       </p>
       <p>
         <a href="https://weilo.vercel.app">Project Page</a>
