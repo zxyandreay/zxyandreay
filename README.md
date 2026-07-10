@@ -77,27 +77,24 @@ I care about building apps that are not only functional, but also clear, maintai
     <td width="50%">
       <h3>Clanker</h3>
       <p>
-        A browser-based doodle guessing game where players draw timed prompts while Clanker tries to guess them.
+        An experimental machine learning project where I trained a model to recognize user-drawn doodles in real time.
       </p>
       <p>
-        Built around canvas drawing, local model inference, speech bubbles, timed rounds, scoring, result tracking, and playful mascot feedback.
+        Built around model training, drawing data handling, canvas-based inference, timed interaction, speech bubbles, scoring, and playful mascot feedback.
       </p>
       <p>
-        <strong>Category:</strong> ML Browser Game
+        <strong>Category:</strong> Machine Learning Project
       </p>
       <p>
         <strong>Tech:</strong> React, TypeScript, TensorFlow.js
       </p>
       <p>
-        <strong>Build Focus:</strong> Canvas interaction · Local ML inference · Timed game flow
+        <strong>Build Focus:</strong> Model training · Canvas-based inference · Interactive ML system
       </p>
       <p>
         <a href="https://clanker-doodle.vercel.app">Live Demo</a>
       </p>
     </td>
-  </tr>
-
-
   <tr>
     <td width="50%">
       <h3>Resume Builder</h3>
@@ -143,7 +140,6 @@ I care about building apps that are not only functional, but also clear, maintai
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <h3>FollowBack Checker</h3>
