@@ -1,6 +1,7 @@
 <div align="center">
 
 
+
 # Hi, I'm zxyandreay 👋
 
 ### Computer Science Graduate · Product Builder · Problem Solver
@@ -65,7 +66,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Category:</strong> Mobile App
       </p>
       <p>
-        <strong>Tech:</strong> Expo, React Native, Mobile App
+        <strong>Tech:</strong> Expo, React Native, TypeScript
       </p>
       <p>
         <strong>Build Focus:</strong> Goals + progress insights · Streaks, reminders + calendar history · Progress images + backups
@@ -98,6 +99,7 @@ I care about building apps that are not only functional, but also clear, maintai
   </tr>
 
 
+
   <tr>
     <td width="50%">
       <h3>Resume Builder</h3>
@@ -111,7 +113,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Category:</strong> Productivity Tool
       </p>
       <p>
-        <strong>Tech:</strong> React, Vite, PDF Export
+        <strong>Tech:</strong> React, Vite, TypeScript
       </p>
       <p>
         <strong>Build Focus:</strong> Classic + Modern templates · Live A4 preview + PDF export · Autosave + JSON import/export
@@ -179,7 +181,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Category:</strong> Browser Game Prototype
       </p>
       <p>
-        <strong>Tech:</strong> Phaser 3, TypeScript, Game Dev
+        <strong>Tech:</strong> Phaser 3, TypeScript, Vite
       </p>
       <p>
         <strong>Build Focus:</strong> Driving + exact text input · Three narrative-driven levels · Scoring, saves + result scenes
@@ -190,12 +192,14 @@ I care about building apps that are not only functional, but also clear, maintai
       </p>
     </td>
   </tr>
+
 </table>
 ---
 
 ## Tech Stack
 
 <div align="center">
+
 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -219,6 +223,7 @@ I care about building apps that are not only functional, but also clear, maintai
 <div align="center">
 
 
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zxyandreay&show_icons=true&theme=github_dark&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxyandreay&layout=compact&theme=github_dark&hide_border=true" />
 
@@ -239,6 +244,7 @@ If you have an app idea, a project that needs improvement, or a role where pract
 ---
 
 <div align="center">
+
 
 
 ### Thanks for visiting ✨
