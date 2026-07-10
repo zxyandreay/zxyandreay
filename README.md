@@ -56,10 +56,10 @@ I care about building apps that are not only functional, but also clear, maintai
     <td width="50%">
       <h3>Weilo</h3>
       <p>
-        A clean mobile weight tracker for logging progress, setting goals, and staying aware of fitness changes over time.
+        A simple and focused weight tracker for logging weight, setting goals, reviewing trends, building streaks, tracking consistency, and creating shareable progress images.
       </p>
       <p>
-        Built around fast weight logging, goal tracking, trends, stats, local backups, kg/lbs support, and shareable progress snapshots while keeping the experience simple and consistent.
+        Built around fast weight logging, progress insights, calendar history, reminders, multilingual support, backups, and customizable progress snapshots.
       </p>
       <p>
         <strong>Category:</strong> Mobile App
@@ -68,7 +68,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Tech:</strong> Expo, React Native, Mobile App
       </p>
       <p>
-        <strong>Build Focus:</strong> Simple product scope · Local app data flow · Shareable progress UX
+        <strong>Build Focus:</strong> Goals + progress insights · Streaks, reminders + calendar history · Progress images + backups
       </p>
       <p>
         <a href="https://weilo.vercel.app">Project Page</a>
@@ -77,32 +77,35 @@ I care about building apps that are not only functional, but also clear, maintai
     <td width="50%">
       <h3>Clanker</h3>
       <p>
-        An experimental machine learning project where I trained a model to recognize user-drawn doodles in real time.
+        An experimental machine learning project where I trained a doodle recognition model and turned it into an interactive drawing game.
       </p>
       <p>
-        Built around model training, drawing data handling, canvas-based inference, timed interaction, speech bubbles, scoring, and playful mascot feedback.
+        Built around real-time canvas predictions, progressive guesses, voice reactions, timed rounds, scoring, assist modes, and adaptive learning.
       </p>
       <p>
-        <strong>Category:</strong> Machine Learning Project
+        <strong>Category:</strong> Experimental ML Project
       </p>
       <p>
         <strong>Tech:</strong> React, TypeScript, TensorFlow.js
       </p>
       <p>
-        <strong>Build Focus:</strong> Model training · Canvas-based inference · Interactive ML system
+        <strong>Build Focus:</strong> Custom-trained model · Progressive guessing + voice reactions · Scoring, assist modes + adaptive learning
       </p>
       <p>
         <a href="https://clanker-doodle.vercel.app">Live Demo</a>
       </p>
     </td>
+  </tr>
+
+
   <tr>
     <td width="50%">
       <h3>Resume Builder</h3>
       <p>
-        A browser-based modular resume editor with live A4 preview and PDF export.
+        A modular resume editor for creating polished resumes through live A4 previews, customizable templates, autosave, JSON import and export, optional photos, and PDF generation.
       </p>
       <p>
-        Built for creating resumes quickly with templates, autosave, JSON import/export, zoom, fullscreen preview, and optional photo upload.
+        Built around a flexible editing workflow with accurate document previews, reusable resume data, and multiple ways to review and export the final result.
       </p>
       <p>
         <strong>Category:</strong> Productivity Tool
@@ -111,7 +114,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Tech:</strong> React, Vite, PDF Export
       </p>
       <p>
-        <strong>Build Focus:</strong> Document layout · Export accuracy · Editor state management
+        <strong>Build Focus:</strong> Classic + Modern templates · Live A4 preview + PDF export · Autosave + JSON import/export
       </p>
       <p>
         <a href="https://resume-builder.zxyandreay.workers.dev">Live Demo</a>
@@ -120,10 +123,10 @@ I care about building apps that are not only functional, but also clear, maintai
     <td width="50%">
       <h3>PlanDesk</h3>
       <p>
-        A desktop project manager for organizing projects, milestones, tasks, issues, notes, files, reports, backups, and exports.
+        A desktop project manager for organizing projects, milestones, tasks, issues, notes, linked files, custom workflows, reports, backups, and exports in one focused workspace.
       </p>
       <p>
-        Designed for people who want a focused project management tool without complicated setup.
+        Designed to keep planning, execution, project references, and progress reporting together without the overhead of a complicated team platform.
       </p>
       <p>
         <strong>Category:</strong> Desktop Project Manager
@@ -132,7 +135,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Tech:</strong> Tauri, React, TypeScript
       </p>
       <p>
-        <strong>Build Focus:</strong> Desktop architecture · File references · Reports, backups + exports
+        <strong>Build Focus:</strong> Tasks, issues + milestones · Custom workflows + linked files · Reports, backups + exports
       </p>
       <p>
         <a href="https://github.com/zxyandreay/plan-desk/releases">Releases</a> ·
@@ -140,23 +143,24 @@ I care about building apps that are not only functional, but also clear, maintai
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>FollowBack Checker</h3>
       <p>
-        A browser-based Instagram export comparison tool that helps users check follower and following differences.
+        An Instagram follow comparison tool that analyzes account export files to show follower and following differences through searchable lists and clear summary categories.
       </p>
       <p>
-        Built around ZIP/JSON parsing, searchable comparison results, profile links, CSV export, and a clear import guide.
+        Built around ZIP and JSON import, profile links, result filtering, CSV export, and a step-by-step guide for retrieving the required Instagram data.
       </p>
       <p>
-        <strong>Category:</strong> Client-Side Data Utility
+        <strong>Category:</strong> Data Utility
       </p>
       <p>
         <strong>Tech:</strong> Next.js, TypeScript, JSZip
       </p>
       <p>
-        <strong>Build Focus:</strong> File parsing · Data comparison · Clear result views
+        <strong>Build Focus:</strong> ZIP + JSON export support · Searchable results + profile links · Summary categories + CSV export
       </p>
       <p>
         <a href="https://zxyandreay.github.io/followback-checker/">Live Demo</a> ·
@@ -166,10 +170,10 @@ I care about building apps that are not only functional, but also clear, maintai
     <td width="50%">
       <h3>Text & Drive</h3>
       <p>
-        A Phaser 3 browser game prototype about steering while typing exact replies under pressure.
+        A typing-and-driving game prototype where players steer while composing exact replies under pressure.
       </p>
       <p>
-        Built around stress, timing, attention, scoring, saves, and three authored levels.
+        Built around divided attention, narrative-driven levels, time pressure, scoring, saves, pause behavior, and result scenes.
       </p>
       <p>
         <strong>Category:</strong> Browser Game Prototype
@@ -178,7 +182,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Tech:</strong> Phaser 3, TypeScript, Game Dev
       </p>
       <p>
-        <strong>Build Focus:</strong> Game states · Scoring systems · Level flow
+        <strong>Build Focus:</strong> Driving + exact text input · Three narrative-driven levels · Scoring, saves + result scenes
       </p>
       <p>
         <a href="https://zxyandreay.github.io/text-drive/">Live Demo</a> ·
@@ -187,7 +191,6 @@ I care about building apps that are not only functional, but also clear, maintai
     </td>
   </tr>
 </table>
-
 ---
 
 ## Tech Stack
