@@ -97,9 +97,6 @@ I care about building apps that are not only functional, but also clear, maintai
       </p>
     </td>
   </tr>
-
-
-
   <tr>
     <td width="50%">
       <h3>Resume Builder</h3>
@@ -123,77 +120,30 @@ I care about building apps that are not only functional, but also clear, maintai
       </p>
     </td>
     <td width="50%">
-      <h3>PlanDesk</h3>
+      <h3>LRIS</h3>
       <p>
-        A desktop project manager for organizing projects, milestones, tasks, issues, notes, linked files, custom workflows, reports, backups, and exports in one focused workspace.
+        A client-ready institutional system for managing the submission, review, revision, publication, discovery, and reporting of learning resources across DepEd Region I.
       </p>
       <p>
-        Designed to keep planning, execution, project references, and progress reporting together without the overhead of a complicated team platform.
+        Built around role-based workspaces, hierarchical permissions, approval workflows, account requests, resource discovery, analytics, announcements, exports, and administrative audit records.
       </p>
       <p>
-        <strong>Category:</strong> Desktop Project Manager
+        <strong>Category:</strong> Institutional Management System
       </p>
       <p>
-        <strong>Tech:</strong> Tauri, React, TypeScript
+        <strong>Tech:</strong> React, TypeScript, Vite
       </p>
       <p>
-        <strong>Build Focus:</strong> Tasks, issues + milestones · Custom workflows + linked files · Reports, backups + exports
+        <strong>Build Focus:</strong> Role-based approvals + permissions · Resource library + account workflows · Analytics, reports + audit logs
       </p>
       <p>
-        <a href="https://github.com/zxyandreay/plan-desk/releases">Releases</a> ·
-        <a href="https://github.com/zxyandreay/plan-desk">Repository</a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>FollowBack Checker</h3>
-      <p>
-        An Instagram follow comparison tool that analyzes account export files to show follower and following differences through searchable lists and clear summary categories.
-      </p>
-      <p>
-        Built around ZIP and JSON import, profile links, result filtering, CSV export, and a step-by-step guide for retrieving the required Instagram data.
-      </p>
-      <p>
-        <strong>Category:</strong> Data Utility
-      </p>
-      <p>
-        <strong>Tech:</strong> Next.js, TypeScript, JSZip
-      </p>
-      <p>
-        <strong>Build Focus:</strong> ZIP + JSON export support · Searchable results + profile links · Summary categories + CSV export
-      </p>
-      <p>
-        <a href="https://zxyandreay.github.io/followback-checker/">Live Demo</a> ·
-        <a href="https://github.com/zxyandreay/followback-checker">Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Text & Drive</h3>
-      <p>
-        A typing-and-driving game prototype where players steer while composing exact replies under pressure.
-      </p>
-      <p>
-        Built around divided attention, narrative-driven levels, time pressure, scoring, saves, pause behavior, and result scenes.
-      </p>
-      <p>
-        <strong>Category:</strong> Browser Game Prototype
-      </p>
-      <p>
-        <strong>Tech:</strong> Phaser 3, TypeScript, Vite
-      </p>
-      <p>
-        <strong>Build Focus:</strong> Driving + exact text input · Three narrative-driven levels · Scoring, saves + result scenes
-      </p>
-      <p>
-        <a href="https://zxyandreay.github.io/text-drive/">Live Demo</a> ·
-        <a href="https://github.com/zxyandreay/text-drive">Repository</a>
+        <a href="https://lris-demo.vercel.app">Frontend Demo</a>
       </p>
     </td>
   </tr>
 
 </table>
+
 ---
 
 ## Tech Stack
