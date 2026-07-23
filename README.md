@@ -72,7 +72,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Build Focus:</strong> Goals + progress insights · Streaks, reminders + calendar history · Progress images + backups
       </p>
       <p>
-        <a href="https://weilo.vercel.app">Project Page</a> · 
+        <a href="https://weilo.vercel.app">Website</a> · 
         <a href="https://play.google.com/store/apps/details?id=com.zxyandreay.weilo">Google Play</a>
       </p>
     </td>
