@@ -72,7 +72,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Build Focus:</strong> Goals + progress insights · Streaks, reminders + calendar history · Progress images + backups
       </p>
       <p>
-        <a href="https://weilo.vercel.app">Website</a> · 
+        <a href="https://weilo.pages.dev">Website</a> · 
         <a href="https://play.google.com/store/apps/details?id=com.zxyandreay.weilo">Google Play</a>
       </p>
     </td>
@@ -94,7 +94,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Build Focus:</strong> Custom-trained model · Progressive guessing + voice reactions · Scoring, assist modes + adaptive learning
       </p>
       <p>
-        <a href="https://clanker-doodle.vercel.app">Live Demo</a>
+        <a href="https://clanker.is-a.bot">Live Demo</a>
       </p>
     </td>
   </tr>
@@ -117,7 +117,7 @@ I care about building apps that are not only functional, but also clear, maintai
         <strong>Build Focus:</strong> Classic + Modern templates · Live A4 preview + PDF export · Autosave + JSON import/export
       </p>
       <p>
-        <a href="https://resume-builder.zxyandreay.workers.dev">Live Demo</a>
+        <a href="https://build-resume.pages.dev">Live Demo</a>
       </p>
     </td>
     <td width="50%">
