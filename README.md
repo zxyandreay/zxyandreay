@@ -21,7 +21,7 @@ I turn real problems into simple, useful, and polished products across web, mobi
 
 I'm a Computer Science graduate who enjoys turning ideas into real, usable digital products.
 
-I use AI as part of my development workflow to move faster through planning, scaffolding, debugging, refactoring, UI polish, documentation, and release preparation. My focus stays on product direction, architecture decisions, security review, testing, and final implementation quality.
+I work across web, mobile, and desktop, with a focus on the parts of development that shape the final product: understanding the problem, designing the user flow, structuring the application, handling edge cases, refining the experience, and getting it into a state that's ready to use and maintain.
 
 I like building projects that are:
 
