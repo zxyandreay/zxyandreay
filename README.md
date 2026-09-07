@@ -38,11 +38,11 @@ Right now, I’m building a portfolio of web apps, mobile apps, desktop tools, a
 ## How I Build
 
 ```txt
-Idea
+Understand the problem
 → Define the core use case and user flow
-→ Plan the app structure, data shape, routes, and states
-→ Use AI to speed up scaffolding, iteration, debugging, and polish
-→ Review architecture, security assumptions, edge cases, and UX details
+→ Design the application structure, data, routes, and states
+→ Build and iterate
+→ Review architecture, UX, security assumptions, and edge cases
 → Test, refine, document, deploy, and keep improving
 ```
 
