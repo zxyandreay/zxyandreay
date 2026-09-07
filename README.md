@@ -21,7 +21,7 @@ I turn real problems into simple, useful, and polished products across web, mobi
 
 I'm a Computer Science graduate who enjoys turning ideas into real, usable digital products.
 
-I work across web, mobile, and desktop, with a focus on the parts of development that shape the final product: understanding the problem, designing the user flow, structuring the application, handling edge cases, refining the experience, and getting it into a state that's ready to use and maintain.
+I work across web, mobile, and desktop, with particular attention to the parts that shape the finished product: understanding the problem, designing clear user flows, structuring applications and data, handling edge cases, refining the experience, and shipping something that can actually be used and maintained.
 
 I like building projects that are:
 
